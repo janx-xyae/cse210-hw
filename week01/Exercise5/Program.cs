@@ -34,6 +34,7 @@ class Program
         return number;
     }
 
+
     static int SquareNumber(int number)
     {
         int square = number * number;
