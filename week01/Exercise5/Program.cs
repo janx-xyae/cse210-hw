@@ -20,6 +20,7 @@ class Program
         Console.WriteLine("Welcome to the program!");
     }
 
+
     static string PromptUserName()
     {
         Console.Write("Please enter your name: ");
